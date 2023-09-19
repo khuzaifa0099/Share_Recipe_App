@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813150880771",
+    "project_id": "zakwonfypproject",
+    "storage_bucket": "zakwonfypproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813150880771:android:e65ca32c38a009f374fa36",
+        "android_client_info": {
+          "package_name": "com.example.zakwamfyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813150880771-fdb5u0brl5fon7oc0i5jlv1r4qrutfhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMPhAkHbJcm8sq3O4SMUkEWmVcnVclO6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813150880771-fdb5u0brl5fon7oc0i5jlv1r4qrutfhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
